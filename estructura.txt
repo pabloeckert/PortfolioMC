@@ -1,0 +1,889 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 301D-64F1
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC
+
+15/09/2025  09:30    <DIR>          .
+15/09/2025  08:53    <DIR>          ..
+15/09/2025  09:59                 0 estructura.txt
+15/09/2025  09:35    <DIR>          portfoliomc
+               1 archivos              0 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc
+
+15/09/2025  09:35    <DIR>          .
+15/09/2025  09:30    <DIR>          ..
+15/09/2025  08:58    <DIR>          Add_Ons
+15/09/2025  08:58    <DIR>          Admin
+30/07/2025  23:27            52.042 changelog.txt
+15/09/2025  08:58    <DIR>          Components
+15/09/2025  08:58    <DIR>          Core
+15/09/2025  09:35    <DIR>          engine
+15/09/2025  08:58    <DIR>          grunt
+15/09/2025  08:58    <DIR>          include
+15/09/2025  08:58    <DIR>          languages
+15/09/2025  08:58    <DIR>          Layouts
+15/09/2025  08:58    <DIR>          Lightboxes
+15/09/2025  09:27    <DIR>          Options
+15/09/2025  08:57             1.460 photonic.php
+15/09/2025  09:27    <DIR>          Platforms
+30/07/2025  23:27            15.810 readme.txt
+11/11/2018  23:53            20.669 screenshot-1.png
+11/11/2018  23:53            12.453 screenshot-2.jpg
+11/11/2018  23:53            48.109 screenshot-3.png
+11/11/2018  23:53           205.507 screenshot-4.png
+11/11/2018  23:53            14.341 screenshot-5.jpg
+11/11/2018  23:53            22.880 screenshot-6.jpg
+11/11/2018  23:53             5.170 screenshot-7.png
+11/11/2018  23:53            25.922 screenshot-8.png
+11/11/2018  23:53           167.895 screenshot-9.jpg
+28/03/2022  21:29             1.375 uninstall.php
+              13 archivos        593.633 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\Add_Ons
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  09:35    <DIR>          ..
+15/09/2025  08:58    <DIR>          WP
+               0 archivos              0 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\Add_Ons\WP
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+05/04/2023  23:55             5.558 Widget.php
+               1 archivos          5.558 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\Admin
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  09:35    <DIR>          ..
+22/04/2025  00:53            14.913 Admin.php
+31/03/2022  00:21             4.327 Admin_Menu.php
+28/03/2022  21:29             1.502 Admin_Page.php
+30/07/2025  23:27            16.600 Authentication.php
+15/09/2025  08:58    <DIR>          Forms
+05/12/2023  00:10            33.129 Getting_Started.php
+22/04/2025  00:53            16.186 Helper.php
+30/07/2025  23:27            41.357 Options_Manager.php
+21/06/2022  23:50             3.631 Shortcode_Replace.php
+04/02/2025  00:47            10.014 Shortcode_Usage.php
+15/09/2025  09:53    <DIR>          Wizard
+               9 archivos        141.659 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\Admin\Forms
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+04/02/2025  00:47             6.216 Add_Gallery.php
+05/04/2023  23:55             2.410 Edit_Gallery_Templates.php
+05/12/2023  00:10            47.694 Vanilla_Form.php
+               3 archivos         56.320 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\Admin\Wizard
+
+15/09/2025  09:53    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+30/07/2025  23:27            31.882 Flickr.php
+22/04/2025  00:53             8.301 Screen_Fields.php
+22/04/2025  00:53             6.210 Screen_Flow.php
+20/02/2024  00:59            10.805 Source.php
+22/04/2025  00:53            47.999 Wizard.php
+04/02/2025  00:47             5.111 WP.php
+               6 archivos        110.308 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\Components
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  09:35    <DIR>          ..
+07/05/2024  23:56               403 Album.php
+20/02/2024  00:59             1.860 Album_List.php
+05/12/2023  00:10             1.469 Collection.php
+05/12/2023  00:10               900 Error.php
+20/02/2024  00:59             1.645 Grid_Anchor.php
+07/05/2024  23:56             1.625 Grid_Figure.php
+20/02/2024  00:59             1.083 Grid_Image.php
+05/12/2023  00:10             2.336 Header.php
+28/03/2022  21:29               737 Pagination.php
+04/02/2025  00:47               419 Photo.php
+05/12/2023  00:10             1.204 Photo_List.php
+05/12/2023  00:10               556 Printable.php
+05/12/2023  00:10             1.347 Single_Photo.php
+05/12/2023  00:10             2.663 Stack_Trace.php
+              14 archivos         18.247 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\Core
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  09:35    <DIR>          ..
+22/04/2025  00:53            12.288 AJAX.php
+05/12/2023  00:10             1.514 Cron.php
+20/02/2024  00:59            17.404 Front_End.php
+30/07/2025  23:27             4.466 Gallery.php
+22/04/2025  00:53            30.208 Photonic.php
+17/03/2025  22:53             4.486 Template.php
+07/05/2024  23:56             5.083 Utilities.php
+               7 archivos         75.449 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\engine
+
+15/09/2025  09:35    <DIR>          .
+15/09/2025  09:35    <DIR>          ..
+15/09/2025  09:54    <DIR>          flickr
+               0 archivos              0 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\engine\flickr
+
+15/09/2025  09:54    <DIR>          .
+15/09/2025  09:35    <DIR>          ..
+30/07/2025  23:27            20.081 FlickrOptions.php
+07/05/2024  23:56            50.591 FlickrPlatform.php
+30/07/2025  23:27            31.882 FlickrWizard.php
+               3 archivos        102.554 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\grunt
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  09:35    <DIR>          ..
+05/04/2023  23:55             2.732 Gruntfile.js
+14/12/2020  22:09             1.475 package.json
+20/02/2024  00:59             5.669 webpack.config.js
+               3 archivos          9.876 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  09:35    <DIR>          ..
+15/09/2025  08:58    <DIR>          css
+15/09/2025  08:58    <DIR>          ext
+15/09/2025  08:58    <DIR>          images
+15/09/2025  08:58    <DIR>          js
+               0 archivos              0 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\css
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+15/09/2025  08:58    <DIR>          admin
+15/09/2025  08:58    <DIR>          front-end
+               0 archivos              0 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\css\admin
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+22/04/2025  00:53             1.003 admin-block.css
+22/04/2025  00:53             1.928 admin-editor.css
+22/04/2025  00:53             7.487 admin-flow.css
+06/05/2020  23:30               967 admin-form.css
+22/04/2025  00:53             8.338 admin.css
+22/04/2025  00:53             1.012 widget.css
+               6 archivos         20.735 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\css\front-end
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+15/09/2025  08:58    <DIR>          core
+               0 archivos              0 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\css\front-end\core
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+07/05/2024  23:56            23.602 photonic.css
+07/05/2024  23:56            20.565 photonic.min.css
+               2 archivos         44.167 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+15/09/2025  08:58    <DIR>          baguettebox
+15/09/2025  08:58    <DIR>          bigpicture
+15/09/2025  08:58    <DIR>          colorbox
+15/09/2025  08:58    <DIR>          fancybox3
+15/09/2025  08:58    <DIR>          featherlight
+15/09/2025  08:58    <DIR>          glightbox
+15/09/2025  08:58    <DIR>          imagelightbox
+14/12/2020  22:09             2.179 jquery.detect_swipe.js
+15/09/2025  08:58    <DIR>          lightcase
+15/09/2025  08:58    <DIR>          lightgallery
+15/09/2025  08:58    <DIR>          photoswipe
+15/09/2025  08:58    <DIR>          photoswipe5
+15/09/2025  08:58    <DIR>          splide
+15/09/2025  08:58    <DIR>          spotlight
+15/09/2025  08:58    <DIR>          strip
+15/09/2025  08:58    <DIR>          swipebox
+15/09/2025  08:58    <DIR>          venobox
+               1 archivos          2.179 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\baguettebox
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+14/12/2020  22:09             4.625 baguettebox.css
+12/04/2022  13:20            25.859 baguettebox.js
+14/12/2020  22:09             3.655 baguettebox.min.css
+12/04/2022  13:20            10.494 baguettebox.min.js
+               4 archivos         44.633 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\bigpicture
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+11/04/2022  23:54            24.994 bigpicture.js
+11/04/2022  23:54             9.055 bigpicture.min.js
+               2 archivos         34.049 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\colorbox
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+14/12/2020  22:09            29.374 colorbox.js
+14/12/2020  22:09            11.961 colorbox.min.js
+15/09/2025  08:58    <DIR>          style-1
+15/09/2025  08:58    <DIR>          style-2
+15/09/2025  08:58    <DIR>          style-3
+15/09/2025  08:58    <DIR>          style-4
+15/09/2025  08:58    <DIR>          style-5
+               2 archivos         41.335 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\colorbox\style-1
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+14/12/2020  22:09             4.754 colorbox.css
+15/09/2025  08:58    <DIR>          images
+               1 archivos          4.754 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\colorbox\style-1\images
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+14/12/2020  22:09               112 border.png
+14/12/2020  22:09             1.249 controls.png
+15/09/2025  08:58    <DIR>          ie6
+14/12/2020  22:09             9.427 loading.gif
+14/12/2020  22:09               157 loading_background.png
+14/12/2020  22:09               182 overlay.png
+               5 archivos         11.127 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\colorbox\style-1\images\ie6
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+14/12/2020  22:09               111 borderBottomCenter.png
+14/12/2020  22:09               215 borderBottomLeft.png
+14/12/2020  22:09               217 borderBottomRight.png
+14/12/2020  22:09               108 borderMiddleLeft.png
+14/12/2020  22:09               108 borderMiddleRight.png
+14/12/2020  22:09               111 borderTopCenter.png
+14/12/2020  22:09               216 borderTopLeft.png
+14/12/2020  22:09               214 borderTopRight.png
+               8 archivos          1.300 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\colorbox\style-2
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+14/12/2020  22:09             2.400 colorbox.css
+15/09/2025  08:58    <DIR>          images
+               1 archivos          2.400 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\colorbox\style-2\images
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+14/12/2020  22:09               570 controls.png
+14/12/2020  22:09             9.427 loading.gif
+               2 archivos          9.997 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\colorbox\style-3
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+14/12/2020  22:09             2.195 colorbox.css
+15/09/2025  08:58    <DIR>          images
+               1 archivos          2.195 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\colorbox\style-3\images
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+14/12/2020  22:09             1.633 controls.png
+14/12/2020  22:09             9.427 loading.gif
+               2 archivos         11.060 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\colorbox\style-4
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+14/12/2020  22:09             4.097 colorbox.css
+15/09/2025  08:58    <DIR>          images
+               1 archivos          4.097 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\colorbox\style-4\images
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+14/12/2020  22:09             1.057 border1.png
+14/12/2020  22:09               170 border2.png
+15/09/2025  08:58    <DIR>          ie6
+14/12/2020  22:09             9.427 loading.gif
+               3 archivos         10.654 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\colorbox\style-4\images\ie6
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+14/12/2020  22:09               153 borderBottomCenter.png
+14/12/2020  22:09               473 borderBottomLeft.png
+14/12/2020  22:09               470 borderBottomRight.png
+14/12/2020  22:09               148 borderMiddleLeft.png
+14/12/2020  22:09               139 borderMiddleRight.png
+14/12/2020  22:09               153 borderTopCenter.png
+14/12/2020  22:09               359 borderTopLeft.png
+14/12/2020  22:09               465 borderTopRight.png
+               8 archivos          2.360 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\colorbox\style-5
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+14/12/2020  22:09             3.155 colorbox.css
+15/09/2025  08:58    <DIR>          images
+               1 archivos          3.155 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\colorbox\style-5\images
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+14/12/2020  22:09               163 border.png
+14/12/2020  22:09             2.033 controls.png
+14/12/2020  22:09             9.427 loading.gif
+14/12/2020  22:09               166 loading_background.png
+               4 archivos         11.789 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\fancybox3
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+11/04/2022  23:54            16.363 fancybox3.css
+11/04/2022  23:54           162.246 fancybox3.js
+11/04/2022  23:54            12.797 fancybox3.min.css
+11/04/2022  23:54            68.257 fancybox3.min.js
+               4 archivos        259.663 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\featherlight
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+11/04/2022  23:54             6.599 featherlight.css
+11/04/2022  23:54            31.462 featherlight.js
+11/04/2022  23:54             3.581 featherlight.min.css
+11/04/2022  23:54            13.041 featherlight.min.js
+               4 archivos         54.683 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\glightbox
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+11/04/2022  23:54            17.288 glightbox.css
+11/04/2022  23:54           109.531 glightbox.js
+11/04/2022  23:54            13.751 glightbox.min.css
+11/04/2022  23:54            55.059 glightbox.min.js
+               4 archivos        195.629 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\imagelightbox
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+11/04/2022  23:54             4.159 imagelightbox.css
+11/04/2022  23:54            12.160 imagelightbox.js
+11/04/2022  23:54             3.406 imagelightbox.min.css
+11/04/2022  23:54             5.618 imagelightbox.min.js
+               4 archivos         25.343 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\lightcase
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+14/12/2020  22:09            16.004 lightcase.css
+11/04/2022  23:54            54.482 lightcase.js
+14/12/2020  22:09            13.510 lightcase.min.css
+11/04/2022  23:54            26.577 lightcase.min.js
+               4 archivos        110.573 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\lightgallery
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+05/12/2023  00:10             4.108 lg-plugin-autoplay.min.js
+05/12/2023  00:10             2.773 lg-plugin-fullscreen.min.js
+05/12/2023  00:10             9.230 lg-plugin-thumbnail.min.js
+05/12/2023  00:10            16.256 lg-plugin-zoom.min.js
+15/09/2025  08:58    <DIR>          lightgallery-fonts
+15/09/2025  08:58    <DIR>          lightgallery-img
+05/12/2023  00:10            61.993 lightgallery-plugins.js
+11/04/2022  23:54            39.505 lightgallery-transitions.css
+11/04/2022  23:54            34.431 lightgallery-transitions.min.css
+05/12/2023  00:10            26.721 lightgallery.css
+05/12/2023  00:10           113.956 lightgallery.js
+05/12/2023  00:10            23.610 lightgallery.min.css
+05/12/2023  00:10            55.385 lightgallery.min.js
+              11 archivos        387.968 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\lightgallery\lightgallery-fonts
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+11/04/2022  23:54            12.834 lg.svg
+11/04/2022  23:54             4.756 lg.ttf
+11/04/2022  23:54             4.832 lg.woff
+11/04/2022  23:54             2.332 lg.woff2
+               4 archivos         24.754 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\lightgallery\lightgallery-img
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+14/12/2020  22:09             4.178 loading.gif
+               1 archivos          4.178 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\photoswipe
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+15/09/2025  08:58    <DIR>          photoswipe-img
+14/12/2020  22:09            15.815 photoswipe.css
+11/04/2022  23:54           121.945 photoswipe.js
+14/12/2020  22:09            10.730 photoswipe.min.css
+11/04/2022  23:54            41.785 photoswipe.min.js
+               4 archivos        190.275 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\photoswipe\photoswipe-img
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+14/12/2020  22:09               547 default-skin.png
+14/12/2020  22:09             1.708 default-skin.svg
+14/12/2020  22:09               866 preloader.gif
+               3 archivos          3.121 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\photoswipe5
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+05/12/2023  00:10           178.366 photoswipe-esm.js
+05/12/2023  00:10            52.701 photoswipe-esm.min.js
+05/12/2023  00:10            51.481 photoswipe-lightbox-esm.js
+05/12/2023  00:10            13.599 photoswipe-lightbox-esm.min.js
+05/12/2023  00:10             7.325 photoswipe5.css
+05/12/2023  00:10            66.758 photoswipe5.js
+05/12/2023  00:10             4.946 photoswipe5.min.css
+05/12/2023  00:10            66.758 photoswipe5.min.js
+               8 archivos        441.934 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\splide
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+05/12/2023  00:10             6.402 splide.css
+05/12/2023  00:10            78.087 splide.js
+05/12/2023  00:10             5.004 splide.min.css
+05/12/2023  00:10            29.772 splide.min.js
+               4 archivos        119.265 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\spotlight
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+21/09/2021  00:03            13.556 spotlight.css
+21/09/2021  00:03            10.391 spotlight.js
+21/09/2021  00:03            12.363 spotlight.min.css
+21/09/2021  00:03            10.391 spotlight.min.js
+               4 archivos         46.701 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\strip
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+15/09/2025  08:58    <DIR>          strip-img
+14/12/2020  22:09            12.851 strip.css
+11/04/2022  23:54            80.130 strip.js
+14/12/2020  22:09             8.594 strip.min.css
+11/04/2022  23:54            38.711 strip.min.js
+               4 archivos        140.286 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\strip\strip-img
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+15/09/2025  08:58    <DIR>          strip
+               0 archivos              0 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\strip\strip-img\strip
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+14/12/2020  22:09               594 close.png
+14/12/2020  22:09             4.963 close.svg
+14/12/2020  22:09               318 error.png
+14/12/2020  22:09               416 error.svg
+14/12/2020  22:09             1.161 next-faded.png
+14/12/2020  22:09               972 next-small-faded.png
+14/12/2020  22:09             1.019 next-small.png
+14/12/2020  22:09             5.709 next-small.svg
+14/12/2020  22:09             1.061 next.png
+14/12/2020  22:09             6.099 next.svg
+14/12/2020  22:09             1.197 previous-faded.png
+14/12/2020  22:09               975 previous-small-faded.png
+14/12/2020  22:09             1.048 previous-small.png
+14/12/2020  22:09             5.633 previous-small.svg
+14/12/2020  22:09             1.036 previous.png
+14/12/2020  22:09             6.117 previous.svg
+              16 archivos         38.318 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\swipebox
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+15/09/2025  08:58    <DIR>          swipebox-img
+14/12/2020  22:09             5.435 swipebox.css
+11/04/2022  23:54            25.919 swipebox.js
+14/12/2020  22:09             4.320 swipebox.min.css
+11/04/2022  23:54            13.016 swipebox.min.js
+               4 archivos         48.690 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\swipebox\swipebox-img
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+14/12/2020  22:09               729 icons.png
+14/12/2020  22:09             1.431 icons.svg
+14/12/2020  22:09             2.608 loader.gif
+               3 archivos          4.768 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\ext\venobox
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+11/04/2022  23:54            15.526 venobox.css
+11/04/2022  23:54            30.674 venobox.js
+11/04/2022  23:54            14.940 venobox.min.css
+11/04/2022  23:54            15.895 venobox.min.js
+               4 archivos         77.035 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\images
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+29/12/2018  14:07           115.884 Admin.png
+22/04/2025  00:53            29.352 Admin.svg
+21/09/2021  00:03             3.573 clear.png
+02/09/2011  20:54               892 color_wheel.png
+09/12/2012  23:51               404 downloading-dots.gif
+11/02/2019  23:51            23.769 Icons.png
+20/02/2024  00:59             4.910 Icons.svg
+02/09/2011  20:54             3.208 loading.gif
+11/11/2018  23:53               432 Photonic-20-gr.png
+11/11/2018  23:53               438 Photonic-20.png
+09/10/2018  22:17               416 Photonic-24.svg
+21/04/2018  07:25             3.200 placeholder-Sm.png
+21/04/2018  07:25             1.171 placeholder-Th.png
+21/04/2018  07:25               778 placeholder-Ti.png
+21/04/2018  07:25             8.757 placeholder.png
+02/09/2011  20:54             2.975 remove.png
+20/02/2024  00:59               516 Spinner.svg
+17/02/2016  00:10            30.302 title-below.png
+17/02/2016  00:10            54.721 title-jq-tooltip.png
+17/02/2016  00:10            54.010 title-regular.png
+17/02/2016  00:10            86.124 title-slideup.png
+              21 archivos        425.832 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\js
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+15/09/2025  08:58    <DIR>          admin
+15/09/2025  08:58    <DIR>          front-end
+               0 archivos              0 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\js\admin
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+18/12/2020  00:02             4.359 block.js
+28/03/2022  21:29             2.714 gallery-settings.js
+22/04/2025  00:53             5.723 helpers.js
+14/12/2020  22:09            11.377 mce.js
+28/03/2022  21:29             6.905 options-manager.js
+14/12/2020  22:09             1.436 widget.js
+22/04/2025  00:53            38.716 wizard.js
+               7 archivos         71.230 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\js\front-end
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+15/09/2025  08:58    <DIR>          out
+15/09/2025  08:58    <DIR>          src
+               0 archivos              0 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\js\front-end\out
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+07/05/2024  23:56           121.282 photonic-baguettebox.js
+07/05/2024  23:56            51.372 photonic-baguettebox.min.js
+07/05/2024  23:56           122.607 photonic-bigpicture.js
+07/05/2024  23:56            52.057 photonic-bigpicture.min.js
+07/05/2024  23:56           124.516 photonic-colorbox.js
+07/05/2024  23:56            53.577 photonic-colorbox.min.js
+07/05/2024  23:56           123.786 photonic-fancybox.js
+07/05/2024  23:56            53.111 photonic-fancybox.min.js
+07/05/2024  23:56           123.340 photonic-fancybox2.js
+07/05/2024  23:56            52.872 photonic-fancybox2.min.js
+07/05/2024  23:56           122.500 photonic-fancybox3.js
+07/05/2024  23:56            52.190 photonic-fancybox3.min.js
+07/05/2024  23:56           120.055 photonic-fancybox4.js
+07/05/2024  23:56            50.703 photonic-fancybox4.min.js
+07/05/2024  23:56           123.747 photonic-featherlight.js
+07/05/2024  23:56            53.273 photonic-featherlight.min.js
+07/05/2024  23:56           121.359 photonic-glightbox.js
+07/05/2024  23:56            51.248 photonic-glightbox.min.js
+07/05/2024  23:56           121.319 photonic-imagelightbox.js
+07/05/2024  23:56            51.433 photonic-imagelightbox.min.js
+07/05/2024  23:56           122.455 photonic-lightcase.js
+07/05/2024  23:56            52.178 photonic-lightcase.min.js
+07/05/2024  23:56           123.822 photonic-lightgallery.js
+07/05/2024  23:56            52.847 photonic-lightgallery.min.js
+07/05/2024  23:56           123.641 photonic-magnific.js
+07/05/2024  23:56            52.810 photonic-magnific.min.js
+07/05/2024  23:56           105.469 photonic-none.js
+07/05/2024  23:56            43.948 photonic-none.min.js
+07/05/2024  23:56           131.032 photonic-photoswipe.js
+07/05/2024  23:56            58.180 photonic-photoswipe.min.js
+07/05/2024  23:56           128.359 photonic-photoswipe5.js
+07/05/2024  23:56            55.197 photonic-photoswipe5.min.js
+07/05/2024  23:56           121.726 photonic-prettyphoto.js
+07/05/2024  23:56            51.999 photonic-prettyphoto.min.js
+07/05/2024  23:56           124.083 photonic-spotlight.js
+07/05/2024  23:56            52.966 photonic-spotlight.min.js
+07/05/2024  23:56           120.137 photonic-strip.js
+07/05/2024  23:56            50.860 photonic-strip.min.js
+07/05/2024  23:56           122.849 photonic-swipebox.js
+07/05/2024  23:56            52.544 photonic-swipebox.min.js
+07/05/2024  23:56           118.366 photonic-thickbox.js
+07/05/2024  23:56            49.899 photonic-thickbox.min.js
+07/05/2024  23:56           121.750 photonic-venobox.js
+07/05/2024  23:56            51.874 photonic-venobox.min.js
+              44 archivos      3.835.338 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\js\front-end\src
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+15/09/2025  08:58    <DIR>          Components
+20/02/2024  00:59             7.684 Core.js
+15/09/2025  08:58    <DIR>          Entries
+15/09/2025  08:58    <DIR>          Layouts
+15/09/2025  08:58    <DIR>          Lightboxes
+07/05/2024  23:56            15.121 Listeners.js
+07/05/2024  23:56            10.950 Requests.js
+20/02/2024  00:59             4.406 Util.js
+               4 archivos         38.161 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\js\front-end\src\Components
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+11/04/2022  23:54             4.288 Modal.js
+11/04/2022  23:54             2.995 Prompter.js
+07/05/2024  23:56             4.470 Tooltip.js
+               3 archivos         11.753 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\js\front-end\src\Entries
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+21/09/2021  00:03               631 BaguetteBox.js
+14/12/2020  22:09               440 BigPicture.js
+14/12/2020  22:09               418 Colorbox.js
+14/12/2020  22:09               418 Fancybox.js
+14/12/2020  22:09               421 Fancybox2.js
+14/12/2020  22:09               421 Fancybox3.js
+04/05/2022  23:58               437 Fancybox4.js
+14/12/2020  22:09               530 Featherlight.js
+21/09/2021  00:03               530 GLightbox.js
+14/12/2020  22:09               591 ImageLightbox.js
+14/12/2020  22:09               682 Lightcase.js
+11/04/2022  23:54               778 LightGallery.js
+14/12/2020  22:09               551 Magnific.js
+25/01/2021  23:40               268 None.js
+14/12/2020  22:09               476 PhotoSwipe.js
+04/05/2022  23:58               479 PhotoSwipe5.js
+14/12/2020  22:09               464 PrettyPhoto.js
+21/09/2021  00:03               437 Spotlight.js
+14/12/2020  22:09               409 Strip.js
+14/12/2020  22:09               418 Swipebox.js
+14/12/2020  22:09               418 Thickbox.js
+05/04/2023  23:55               431 VenoBox.js
+              22 archivos         10.648 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\js\front-end\src\Layouts
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+20/02/2024  00:59             6.943 Justified.js
+07/05/2024  23:56               634 Layout.js
+07/05/2024  23:56             1.994 Masonry.js
+07/05/2024  23:56             2.736 MasonryHorizontal.js
+20/02/2024  00:59            10.505 Mosaic.js
+28/03/2022  21:29             3.903 Slider.js
+               6 archivos         26.715 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\include\js\front-end\src\Lightboxes
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+04/05/2022  23:58             2.442 BaguetteBox.js
+05/04/2023  23:55             3.757 BigPicture.js
+04/05/2022  23:58             5.369 Colorbox.js
+04/05/2022  23:58             4.918 Fancybox.js
+04/05/2022  23:58             4.330 Fancybox2.js
+05/04/2023  23:55             3.731 Fancybox3.js
+04/05/2022  23:58             1.513 Fancybox4.js
+04/05/2022  23:58             4.830 Featherlight.js
+04/05/2022  23:58             2.453 GLightbox.js
+04/05/2022  23:58             2.360 ImageLightbox.js
+05/04/2023  23:55             9.979 Lightbox.js
+20/02/2024  00:59             3.272 Lightcase.js
+07/05/2024  23:56             4.664 LightGallery.js
+04/05/2022  23:58             4.459 Magnific.js
+05/12/2023  00:10            12.232 PhotoSwipe.js
+21/06/2022  23:50             8.618 PhotoSwipe5.js
+14/12/2020  22:09             3.230 PrettyPhoto.js
+04/05/2022  23:58             5.226 Spotlight.js
+21/09/2021  00:03             1.472 Strip.js
+04/05/2022  23:58             3.992 Swipebox.js
+14/12/2020  22:09               141 Thickbox.js
+05/04/2023  23:55             3.338 VenoBox.js
+              22 archivos         96.326 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\languages
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  09:35    <DIR>          ..
+07/05/2024  23:56            78.962 photonic.pot
+               1 archivos         78.962 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\Layouts
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  09:35    <DIR>          ..
+07/05/2024  23:56             8.240 Core_Layout.php
+15/09/2025  08:58    <DIR>          Features
+07/05/2024  23:56            24.749 Grid.php
+05/12/2023  00:10               629 Level_One_Gallery.php
+05/12/2023  00:10               670 Level_Two_Gallery.php
+07/05/2024  23:56             8.203 Slideshow.php
+               5 archivos         42.491 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\Layouts\Features
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+05/12/2023  00:10             4.119 Can_Use_Lightbox.php
+               1 archivos          4.119 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\Lightboxes
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  09:35    <DIR>          ..
+20/02/2024  00:59               622 BaguetteBox.php
+20/02/2024  00:59               610 BigPicture.php
+20/02/2024  00:59               657 Colorbox.php
+20/02/2024  00:59               800 Fancybox.php
+20/02/2024  00:59               870 Fancybox2.php
+20/02/2024  00:59             2.138 Fancybox3.php
+20/02/2024  00:59             1.746 Fancybox4.php
+20/02/2024  00:59             1.408 Featherlight.php
+15/09/2025  08:58    <DIR>          Features
+20/02/2024  00:59               690 GLightbox.php
+28/03/2022  21:29               230 Image_Lightbox.php
+07/05/2024  23:56             4.745 Lightbox.php
+20/02/2024  00:59             1.420 Lightcase.php
+07/05/2024  23:56             1.159 Lightgallery.php
+28/03/2022  21:29               359 Magnific.php
+11/04/2022  23:54               211 None.php
+20/02/2024  00:59               663 PhotoSwipe.php
+20/02/2024  00:59               848 PhotoSwipe5.php
+05/12/2023  00:10               662 PrettyPhoto.php
+20/02/2024  00:59               745 Spotlight.php
+20/02/2024  00:59             1.150 Strip.php
+20/02/2024  00:59               657 Swipebox.php
+05/12/2023  00:10               433 Thickbox.php
+20/02/2024  00:59             2.190 VenoBox.php
+              23 archivos         25.013 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\Lightboxes\Features
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  08:58    <DIR>          ..
+20/02/2024  00:59             1.793 Show_Videos_Inline.php
+               1 archivos          1.793 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\Options
+
+15/09/2025  09:27    <DIR>          .
+15/09/2025  09:35    <DIR>          ..
+22/04/2025  00:53            16.261 Defaults.php
+22/04/2025  00:53             2.666 DeviantArt.php
+30/07/2025  23:27            20.081 Flickr.php
+22/04/2025  00:53            33.113 Generic.php
+22/04/2025  00:53             2.703 Instagram.php
+22/04/2025  00:53            17.466 Lightbox.php
+22/04/2025  00:53             2.270 Options.php
+22/04/2025  00:53             2.774 Option_Tab.php
+15/09/2025  08:58    <DIR>          screenshots
+               8 archivos         97.334 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\Options\screenshots
+
+15/09/2025  08:58    <DIR>          .
+15/09/2025  09:27    <DIR>          ..
+06/05/2020  23:38            52.840 Flickr-1.png
+06/05/2020  23:38            28.619 Flickr-2.png
+06/05/2020  23:38            28.316 Flickr-3.png
+06/05/2020  23:38            28.142 Flickr-4.png
+06/05/2020  23:38            25.906 Flickr-5.png
+06/05/2020  23:38            28.155 Flickr-6.png
+06/05/2020  23:38            28.151 Flickr-7.png
+06/05/2020  23:38            52.213 SmugMug-1.png
+06/05/2020  23:38            23.511 SmugMug-2.png
+06/05/2020  23:38            23.970 SmugMug-3.png
+              10 archivos        319.823 bytes
+
+ Directorio de c:\Users\Pablo\OneDrive\MEJORA CONTINUA\15. Web\1.Plugin\PortfolioMC\portfoliomc\Platforms
+
+15/09/2025  09:27    <DIR>          .
+15/09/2025  09:35    <DIR>          ..
+05/12/2023  00:10             3.664 Authenticator.php
+20/02/2024  00:59             9.786 Base.php
+30/07/2025  23:27            11.174 DeviantArt.php
+07/05/2024  23:56            50.591 Flickr.php
+30/07/2025  23:27            19.678 Instagram.php
+05/12/2023  00:10               377 Level_One_Module.php
+05/12/2023  00:10               471 Level_Two_Module.php
+30/07/2025  23:27             2.976 Lightroom.php
+24/09/2024  23:30             8.114 Native.php
+07/05/2024  23:56             7.636 OAuth1.php
+30/07/2025  23:27             5.601 OAuth2.php
+05/12/2023  00:10               261 Pageable.php
+              12 archivos        120.329 bytes
+
+     Total de archivos en la lista:
+             394 archivos      8.754.641 bytes
+             209 dirs  115.019.096.064 bytes libres
