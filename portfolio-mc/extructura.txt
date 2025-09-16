@@ -1,0 +1,636 @@
+Listado de rutas de carpetas
+El número de serie del volumen es 301D-64F1
+C:.
+¦   extructura.txt
+¦   
++---portfoliomc
+    ¦   auditar_instanciacion_motor.sh
+    ¦   changelog.txt
+    ¦   encapsular_funciones.php
+    ¦   encapsular_funciones.php.bak
+    ¦   extructura.txt
+    ¦   flickr-selector.php
+    ¦   insertar_instancia_motor.sh
+    ¦   migrar_namespace_portfoliomc.sh
+    ¦   photonic.php
+    ¦   photonic.php.bak
+    ¦   readme.txt
+    ¦   refactor-photonic-to-portfoliomc.sh
+    ¦   refactor_llamadas_metodos.sh
+    ¦   screenshot-1.png
+    ¦   screenshot-2.jpg
+    ¦   screenshot-3.png
+    ¦   screenshot-4.png
+    ¦   screenshot-5.jpg
+    ¦   screenshot-6.jpg
+    ¦   screenshot-7.png
+    ¦   screenshot-8.png
+    ¦   screenshot-9.jpg
+    ¦   uninstall.php
+    ¦   uninstall.php.bak
+    ¦   
+    +---Add_Ons
+    ¦   +---WP
+    ¦           Widget.php
+    ¦           Widget.php.bak
+    ¦           
+    +---Admin
+    ¦   ¦   Admin.php
+    ¦   ¦   Admin.php.bak
+    ¦   ¦   Admin_Menu.php
+    ¦   ¦   Admin_Menu.php.bak
+    ¦   ¦   Admin_Page.php
+    ¦   ¦   Admin_Page.php.bak
+    ¦   ¦   Authentication.php
+    ¦   ¦   Authentication.php.bak
+    ¦   ¦   Getting_Started.php
+    ¦   ¦   Getting_Started.php.bak
+    ¦   ¦   Helper.php
+    ¦   ¦   Helper.php.bak
+    ¦   ¦   Options_Manager.php
+    ¦   ¦   Options_Manager.php.bak
+    ¦   ¦   Shortcode_Replace.php
+    ¦   ¦   Shortcode_Replace.php.bak
+    ¦   ¦   Shortcode_Usage.php
+    ¦   ¦   Shortcode_Usage.php.bak
+    ¦   ¦   
+    ¦   +---Forms
+    ¦   ¦       Add_Gallery.php
+    ¦   ¦       Add_Gallery.php.bak
+    ¦   ¦       Edit_Gallery_Templates.php
+    ¦   ¦       Edit_Gallery_Templates.php.bak
+    ¦   ¦       Vanilla_Form.php
+    ¦   ¦       Vanilla_Form.php.bak
+    ¦   ¦       
+    ¦   +---Wizard
+    ¦           Flickr.php
+    ¦           Flickr.php.bak
+    ¦           Screen_Fields.php
+    ¦           Screen_Fields.php.bak
+    ¦           Screen_Flow.php
+    ¦           Screen_Flow.php.bak
+    ¦           Source.php
+    ¦           Source.php.bak
+    ¦           Wizard.php
+    ¦           Wizard.php.bak
+    ¦           WP.php
+    ¦           WP.php.bak
+    ¦           
+    +---Components
+    ¦       Album.php
+    ¦       Album.php.bak
+    ¦       Album_List.php
+    ¦       Album_List.php.bak
+    ¦       Collection.php
+    ¦       Collection.php.bak
+    ¦       Error.php
+    ¦       Error.php.bak
+    ¦       Grid_Anchor.php
+    ¦       Grid_Anchor.php.bak
+    ¦       Grid_Figure.php
+    ¦       Grid_Figure.php.bak
+    ¦       Grid_Image.php
+    ¦       Grid_Image.php.bak
+    ¦       Header.php
+    ¦       Header.php.bak
+    ¦       Pagination.php
+    ¦       Pagination.php.bak
+    ¦       Photo.php
+    ¦       Photo.php.bak
+    ¦       Photo_List.php
+    ¦       Photo_List.php.bak
+    ¦       Printable.php
+    ¦       Printable.php.bak
+    ¦       Single_Photo.php
+    ¦       Single_Photo.php.bak
+    ¦       Stack_Trace.php
+    ¦       Stack_Trace.php.bak
+    ¦       
+    +---Core
+    ¦       AJAX.php
+    ¦       AJAX.php.bak
+    ¦       Cron.php
+    ¦       Cron.php.bak
+    ¦       Front_End.php
+    ¦       Front_End.php.bak
+    ¦       Gallery.php
+    ¦       Gallery.php.bak
+    ¦       Photonic.php
+    ¦       Photonic.php.bak
+    ¦       Template.php
+    ¦       Template.php.bak
+    ¦       Utilities.php
+    ¦       Utilities.php.bak
+    ¦       
+    +---engine
+    ¦   +---flickr
+    ¦           encapsular_funciones.sh
+    ¦           FlickrOptions.php
+    ¦           FlickrOptions.php.bak
+    ¦           FlickrOptions.php.txt
+    ¦           FlickrPlatform.php
+    ¦           FlickrPlatform.php.bak
+    ¦           FlickrPlatform.php.txt
+    ¦           FlickrWizard.php
+    ¦           FlickrWizard.php.bak
+    ¦           FlickrWizard.php.txt
+    ¦           
+    +---grunt
+    ¦       Gruntfile.js
+    ¦       package.json
+    ¦       webpack.config.js
+    ¦       
+    +---include
+    ¦   +---css
+    ¦   ¦   +---admin
+    ¦   ¦   ¦       admin-block.css
+    ¦   ¦   ¦       admin-editor.css
+    ¦   ¦   ¦       admin-flow.css
+    ¦   ¦   ¦       admin-form.css
+    ¦   ¦   ¦       admin.css
+    ¦   ¦   ¦       widget.css
+    ¦   ¦   ¦       
+    ¦   ¦   +---front-end
+    ¦   ¦       +---core
+    ¦   ¦               photonic.css
+    ¦   ¦               photonic.min.css
+    ¦   ¦               
+    ¦   +---ext
+    ¦   ¦   ¦   jquery.detect_swipe.js
+    ¦   ¦   ¦   
+    ¦   ¦   +---baguettebox
+    ¦   ¦   ¦       baguettebox.css
+    ¦   ¦   ¦       baguettebox.js
+    ¦   ¦   ¦       baguettebox.min.css
+    ¦   ¦   ¦       baguettebox.min.js
+    ¦   ¦   ¦       
+    ¦   ¦   +---bigpicture
+    ¦   ¦   ¦       bigpicture.js
+    ¦   ¦   ¦       bigpicture.min.js
+    ¦   ¦   ¦       
+    ¦   ¦   +---colorbox
+    ¦   ¦   ¦   ¦   colorbox.js
+    ¦   ¦   ¦   ¦   colorbox.min.js
+    ¦   ¦   ¦   ¦   
+    ¦   ¦   ¦   +---style-1
+    ¦   ¦   ¦   ¦   ¦   colorbox.css
+    ¦   ¦   ¦   ¦   ¦   
+    ¦   ¦   ¦   ¦   +---images
+    ¦   ¦   ¦   ¦       ¦   border.png
+    ¦   ¦   ¦   ¦       ¦   controls.png
+    ¦   ¦   ¦   ¦       ¦   loading.gif
+    ¦   ¦   ¦   ¦       ¦   loading_background.png
+    ¦   ¦   ¦   ¦       ¦   overlay.png
+    ¦   ¦   ¦   ¦       ¦   
+    ¦   ¦   ¦   ¦       +---ie6
+    ¦   ¦   ¦   ¦               borderBottomCenter.png
+    ¦   ¦   ¦   ¦               borderBottomLeft.png
+    ¦   ¦   ¦   ¦               borderBottomRight.png
+    ¦   ¦   ¦   ¦               borderMiddleLeft.png
+    ¦   ¦   ¦   ¦               borderMiddleRight.png
+    ¦   ¦   ¦   ¦               borderTopCenter.png
+    ¦   ¦   ¦   ¦               borderTopLeft.png
+    ¦   ¦   ¦   ¦               borderTopRight.png
+    ¦   ¦   ¦   ¦               
+    ¦   ¦   ¦   +---style-2
+    ¦   ¦   ¦   ¦   ¦   colorbox.css
+    ¦   ¦   ¦   ¦   ¦   
+    ¦   ¦   ¦   ¦   +---images
+    ¦   ¦   ¦   ¦           controls.png
+    ¦   ¦   ¦   ¦           loading.gif
+    ¦   ¦   ¦   ¦           
+    ¦   ¦   ¦   +---style-3
+    ¦   ¦   ¦   ¦   ¦   colorbox.css
+    ¦   ¦   ¦   ¦   ¦   
+    ¦   ¦   ¦   ¦   +---images
+    ¦   ¦   ¦   ¦           controls.png
+    ¦   ¦   ¦   ¦           loading.gif
+    ¦   ¦   ¦   ¦           
+    ¦   ¦   ¦   +---style-4
+    ¦   ¦   ¦   ¦   ¦   colorbox.css
+    ¦   ¦   ¦   ¦   ¦   
+    ¦   ¦   ¦   ¦   +---images
+    ¦   ¦   ¦   ¦       ¦   border1.png
+    ¦   ¦   ¦   ¦       ¦   border2.png
+    ¦   ¦   ¦   ¦       ¦   loading.gif
+    ¦   ¦   ¦   ¦       ¦   
+    ¦   ¦   ¦   ¦       +---ie6
+    ¦   ¦   ¦   ¦               borderBottomCenter.png
+    ¦   ¦   ¦   ¦               borderBottomLeft.png
+    ¦   ¦   ¦   ¦               borderBottomRight.png
+    ¦   ¦   ¦   ¦               borderMiddleLeft.png
+    ¦   ¦   ¦   ¦               borderMiddleRight.png
+    ¦   ¦   ¦   ¦               borderTopCenter.png
+    ¦   ¦   ¦   ¦               borderTopLeft.png
+    ¦   ¦   ¦   ¦               borderTopRight.png
+    ¦   ¦   ¦   ¦               
+    ¦   ¦   ¦   +---style-5
+    ¦   ¦   ¦       ¦   colorbox.css
+    ¦   ¦   ¦       ¦   
+    ¦   ¦   ¦       +---images
+    ¦   ¦   ¦               border.png
+    ¦   ¦   ¦               controls.png
+    ¦   ¦   ¦               loading.gif
+    ¦   ¦   ¦               loading_background.png
+    ¦   ¦   ¦               
+    ¦   ¦   +---fancybox3
+    ¦   ¦   ¦       fancybox3.css
+    ¦   ¦   ¦       fancybox3.js
+    ¦   ¦   ¦       fancybox3.min.css
+    ¦   ¦   ¦       fancybox3.min.js
+    ¦   ¦   ¦       
+    ¦   ¦   +---featherlight
+    ¦   ¦   ¦       featherlight.css
+    ¦   ¦   ¦       featherlight.js
+    ¦   ¦   ¦       featherlight.min.css
+    ¦   ¦   ¦       featherlight.min.js
+    ¦   ¦   ¦       
+    ¦   ¦   +---glightbox
+    ¦   ¦   ¦       glightbox.css
+    ¦   ¦   ¦       glightbox.js
+    ¦   ¦   ¦       glightbox.min.css
+    ¦   ¦   ¦       glightbox.min.js
+    ¦   ¦   ¦       
+    ¦   ¦   +---imagelightbox
+    ¦   ¦   ¦       imagelightbox.css
+    ¦   ¦   ¦       imagelightbox.js
+    ¦   ¦   ¦       imagelightbox.min.css
+    ¦   ¦   ¦       imagelightbox.min.js
+    ¦   ¦   ¦       
+    ¦   ¦   +---lightcase
+    ¦   ¦   ¦       lightcase.css
+    ¦   ¦   ¦       lightcase.js
+    ¦   ¦   ¦       lightcase.min.css
+    ¦   ¦   ¦       lightcase.min.js
+    ¦   ¦   ¦       
+    ¦   ¦   +---lightgallery
+    ¦   ¦   ¦   ¦   lg-plugin-autoplay.min.js
+    ¦   ¦   ¦   ¦   lg-plugin-fullscreen.min.js
+    ¦   ¦   ¦   ¦   lg-plugin-thumbnail.min.js
+    ¦   ¦   ¦   ¦   lg-plugin-zoom.min.js
+    ¦   ¦   ¦   ¦   lightgallery-plugins.js
+    ¦   ¦   ¦   ¦   lightgallery-transitions.css
+    ¦   ¦   ¦   ¦   lightgallery-transitions.min.css
+    ¦   ¦   ¦   ¦   lightgallery.css
+    ¦   ¦   ¦   ¦   lightgallery.js
+    ¦   ¦   ¦   ¦   lightgallery.min.css
+    ¦   ¦   ¦   ¦   lightgallery.min.js
+    ¦   ¦   ¦   ¦   
+    ¦   ¦   ¦   +---lightgallery-fonts
+    ¦   ¦   ¦   ¦       lg.svg
+    ¦   ¦   ¦   ¦       lg.ttf
+    ¦   ¦   ¦   ¦       lg.woff
+    ¦   ¦   ¦   ¦       lg.woff2
+    ¦   ¦   ¦   ¦       
+    ¦   ¦   ¦   +---lightgallery-img
+    ¦   ¦   ¦           loading.gif
+    ¦   ¦   ¦           
+    ¦   ¦   +---photoswipe
+    ¦   ¦   ¦   ¦   photoswipe.css
+    ¦   ¦   ¦   ¦   photoswipe.js
+    ¦   ¦   ¦   ¦   photoswipe.min.css
+    ¦   ¦   ¦   ¦   photoswipe.min.js
+    ¦   ¦   ¦   ¦   
+    ¦   ¦   ¦   +---photoswipe-img
+    ¦   ¦   ¦           default-skin.png
+    ¦   ¦   ¦           default-skin.svg
+    ¦   ¦   ¦           preloader.gif
+    ¦   ¦   ¦           
+    ¦   ¦   +---photoswipe5
+    ¦   ¦   ¦       photoswipe-esm.js
+    ¦   ¦   ¦       photoswipe-esm.min.js
+    ¦   ¦   ¦       photoswipe-lightbox-esm.js
+    ¦   ¦   ¦       photoswipe-lightbox-esm.min.js
+    ¦   ¦   ¦       photoswipe5.css
+    ¦   ¦   ¦       photoswipe5.js
+    ¦   ¦   ¦       photoswipe5.min.css
+    ¦   ¦   ¦       photoswipe5.min.js
+    ¦   ¦   ¦       
+    ¦   ¦   +---splide
+    ¦   ¦   ¦       splide.css
+    ¦   ¦   ¦       splide.js
+    ¦   ¦   ¦       splide.min.css
+    ¦   ¦   ¦       splide.min.js
+    ¦   ¦   ¦       
+    ¦   ¦   +---spotlight
+    ¦   ¦   ¦       spotlight.css
+    ¦   ¦   ¦       spotlight.js
+    ¦   ¦   ¦       spotlight.min.css
+    ¦   ¦   ¦       spotlight.min.js
+    ¦   ¦   ¦       
+    ¦   ¦   +---strip
+    ¦   ¦   ¦   ¦   strip.css
+    ¦   ¦   ¦   ¦   strip.js
+    ¦   ¦   ¦   ¦   strip.min.css
+    ¦   ¦   ¦   ¦   strip.min.js
+    ¦   ¦   ¦   ¦   
+    ¦   ¦   ¦   +---strip-img
+    ¦   ¦   ¦       +---strip
+    ¦   ¦   ¦               close.png
+    ¦   ¦   ¦               close.svg
+    ¦   ¦   ¦               error.png
+    ¦   ¦   ¦               error.svg
+    ¦   ¦   ¦               next-faded.png
+    ¦   ¦   ¦               next-small-faded.png
+    ¦   ¦   ¦               next-small.png
+    ¦   ¦   ¦               next-small.svg
+    ¦   ¦   ¦               next.png
+    ¦   ¦   ¦               next.svg
+    ¦   ¦   ¦               previous-faded.png
+    ¦   ¦   ¦               previous-small-faded.png
+    ¦   ¦   ¦               previous-small.png
+    ¦   ¦   ¦               previous-small.svg
+    ¦   ¦   ¦               previous.png
+    ¦   ¦   ¦               previous.svg
+    ¦   ¦   ¦               
+    ¦   ¦   +---swipebox
+    ¦   ¦   ¦   ¦   swipebox.css
+    ¦   ¦   ¦   ¦   swipebox.js
+    ¦   ¦   ¦   ¦   swipebox.min.css
+    ¦   ¦   ¦   ¦   swipebox.min.js
+    ¦   ¦   ¦   ¦   
+    ¦   ¦   ¦   +---swipebox-img
+    ¦   ¦   ¦           icons.png
+    ¦   ¦   ¦           icons.svg
+    ¦   ¦   ¦           loader.gif
+    ¦   ¦   ¦           
+    ¦   ¦   +---venobox
+    ¦   ¦           venobox.css
+    ¦   ¦           venobox.js
+    ¦   ¦           venobox.min.css
+    ¦   ¦           venobox.min.js
+    ¦   ¦           
+    ¦   +---images
+    ¦   ¦       Admin.png
+    ¦   ¦       Admin.svg
+    ¦   ¦       clear.png
+    ¦   ¦       color_wheel.png
+    ¦   ¦       downloading-dots.gif
+    ¦   ¦       Icons.png
+    ¦   ¦       Icons.svg
+    ¦   ¦       loading.gif
+    ¦   ¦       Photonic-20-gr.png
+    ¦   ¦       Photonic-20.png
+    ¦   ¦       Photonic-24.svg
+    ¦   ¦       placeholder-Sm.png
+    ¦   ¦       placeholder-Th.png
+    ¦   ¦       placeholder-Ti.png
+    ¦   ¦       placeholder.png
+    ¦   ¦       remove.png
+    ¦   ¦       Spinner.svg
+    ¦   ¦       title-below.png
+    ¦   ¦       title-jq-tooltip.png
+    ¦   ¦       title-regular.png
+    ¦   ¦       title-slideup.png
+    ¦   ¦       
+    ¦   +---js
+    ¦       +---admin
+    ¦       ¦       block.js
+    ¦       ¦       gallery-settings.js
+    ¦       ¦       helpers.js
+    ¦       ¦       mce.js
+    ¦       ¦       options-manager.js
+    ¦       ¦       widget.js
+    ¦       ¦       wizard.js
+    ¦       ¦       
+    ¦       +---front-end
+    ¦           +---out
+    ¦           ¦       photonic-baguettebox.js
+    ¦           ¦       photonic-baguettebox.min.js
+    ¦           ¦       photonic-bigpicture.js
+    ¦           ¦       photonic-bigpicture.min.js
+    ¦           ¦       photonic-colorbox.js
+    ¦           ¦       photonic-colorbox.min.js
+    ¦           ¦       photonic-fancybox.js
+    ¦           ¦       photonic-fancybox.min.js
+    ¦           ¦       photonic-fancybox2.js
+    ¦           ¦       photonic-fancybox2.min.js
+    ¦           ¦       photonic-fancybox3.js
+    ¦           ¦       photonic-fancybox3.min.js
+    ¦           ¦       photonic-fancybox4.js
+    ¦           ¦       photonic-fancybox4.min.js
+    ¦           ¦       photonic-featherlight.js
+    ¦           ¦       photonic-featherlight.min.js
+    ¦           ¦       photonic-glightbox.js
+    ¦           ¦       photonic-glightbox.min.js
+    ¦           ¦       photonic-imagelightbox.js
+    ¦           ¦       photonic-imagelightbox.min.js
+    ¦           ¦       photonic-lightcase.js
+    ¦           ¦       photonic-lightcase.min.js
+    ¦           ¦       photonic-lightgallery.js
+    ¦           ¦       photonic-lightgallery.min.js
+    ¦           ¦       photonic-magnific.js
+    ¦           ¦       photonic-magnific.min.js
+    ¦           ¦       photonic-none.js
+    ¦           ¦       photonic-none.min.js
+    ¦           ¦       photonic-photoswipe.js
+    ¦           ¦       photonic-photoswipe.min.js
+    ¦           ¦       photonic-photoswipe5.js
+    ¦           ¦       photonic-photoswipe5.min.js
+    ¦           ¦       photonic-prettyphoto.js
+    ¦           ¦       photonic-prettyphoto.min.js
+    ¦           ¦       photonic-spotlight.js
+    ¦           ¦       photonic-spotlight.min.js
+    ¦           ¦       photonic-strip.js
+    ¦           ¦       photonic-strip.min.js
+    ¦           ¦       photonic-swipebox.js
+    ¦           ¦       photonic-swipebox.min.js
+    ¦           ¦       photonic-thickbox.js
+    ¦           ¦       photonic-thickbox.min.js
+    ¦           ¦       photonic-venobox.js
+    ¦           ¦       photonic-venobox.min.js
+    ¦           ¦       
+    ¦           +---src
+    ¦               ¦   Core.js
+    ¦               ¦   Listeners.js
+    ¦               ¦   Requests.js
+    ¦               ¦   Util.js
+    ¦               ¦   
+    ¦               +---Components
+    ¦               ¦       Modal.js
+    ¦               ¦       Prompter.js
+    ¦               ¦       Tooltip.js
+    ¦               ¦       
+    ¦               +---Entries
+    ¦               ¦       BaguetteBox.js
+    ¦               ¦       BigPicture.js
+    ¦               ¦       Colorbox.js
+    ¦               ¦       Fancybox.js
+    ¦               ¦       Fancybox2.js
+    ¦               ¦       Fancybox3.js
+    ¦               ¦       Fancybox4.js
+    ¦               ¦       Featherlight.js
+    ¦               ¦       GLightbox.js
+    ¦               ¦       ImageLightbox.js
+    ¦               ¦       Lightcase.js
+    ¦               ¦       LightGallery.js
+    ¦               ¦       Magnific.js
+    ¦               ¦       None.js
+    ¦               ¦       PhotoSwipe.js
+    ¦               ¦       PhotoSwipe5.js
+    ¦               ¦       PrettyPhoto.js
+    ¦               ¦       Spotlight.js
+    ¦               ¦       Strip.js
+    ¦               ¦       Swipebox.js
+    ¦               ¦       Thickbox.js
+    ¦               ¦       VenoBox.js
+    ¦               ¦       
+    ¦               +---Layouts
+    ¦               ¦       Justified.js
+    ¦               ¦       Layout.js
+    ¦               ¦       Masonry.js
+    ¦               ¦       MasonryHorizontal.js
+    ¦               ¦       Mosaic.js
+    ¦               ¦       Slider.js
+    ¦               ¦       
+    ¦               +---Lightboxes
+    ¦                       BaguetteBox.js
+    ¦                       BigPicture.js
+    ¦                       Colorbox.js
+    ¦                       Fancybox.js
+    ¦                       Fancybox2.js
+    ¦                       Fancybox3.js
+    ¦                       Fancybox4.js
+    ¦                       Featherlight.js
+    ¦                       GLightbox.js
+    ¦                       ImageLightbox.js
+    ¦                       Lightbox.js
+    ¦                       Lightcase.js
+    ¦                       LightGallery.js
+    ¦                       Magnific.js
+    ¦                       PhotoSwipe.js
+    ¦                       PhotoSwipe5.js
+    ¦                       PrettyPhoto.js
+    ¦                       Spotlight.js
+    ¦                       Strip.js
+    ¦                       Swipebox.js
+    ¦                       Thickbox.js
+    ¦                       VenoBox.js
+    ¦                       
+    +---languages
+    ¦       photonic.pot
+    ¦       
+    +---Layouts
+    ¦   ¦   Core_Layout.php
+    ¦   ¦   Core_Layout.php.bak
+    ¦   ¦   Grid.php
+    ¦   ¦   Grid.php.bak
+    ¦   ¦   Level_One_Gallery.php
+    ¦   ¦   Level_One_Gallery.php.bak
+    ¦   ¦   Level_Two_Gallery.php
+    ¦   ¦   Level_Two_Gallery.php.bak
+    ¦   ¦   Slideshow.php
+    ¦   ¦   Slideshow.php.bak
+    ¦   ¦   
+    ¦   +---Features
+    ¦           Can_Use_Lightbox.php
+    ¦           Can_Use_Lightbox.php.bak
+    ¦           
+    +---Lightboxes
+    ¦   ¦   BaguetteBox.php
+    ¦   ¦   BaguetteBox.php.bak
+    ¦   ¦   BigPicture.php
+    ¦   ¦   BigPicture.php.bak
+    ¦   ¦   Colorbox.php
+    ¦   ¦   Colorbox.php.bak
+    ¦   ¦   Fancybox.php
+    ¦   ¦   Fancybox.php.bak
+    ¦   ¦   Fancybox2.php
+    ¦   ¦   Fancybox2.php.bak
+    ¦   ¦   Fancybox3.php
+    ¦   ¦   Fancybox3.php.bak
+    ¦   ¦   Fancybox4.php
+    ¦   ¦   Fancybox4.php.bak
+    ¦   ¦   Featherlight.php
+    ¦   ¦   Featherlight.php.bak
+    ¦   ¦   GLightbox.php
+    ¦   ¦   GLightbox.php.bak
+    ¦   ¦   Image_Lightbox.php
+    ¦   ¦   Image_Lightbox.php.bak
+    ¦   ¦   Lightbox.php
+    ¦   ¦   Lightbox.php.bak
+    ¦   ¦   Lightcase.php
+    ¦   ¦   Lightcase.php.bak
+    ¦   ¦   Lightgallery.php
+    ¦   ¦   Lightgallery.php.bak
+    ¦   ¦   Magnific.php
+    ¦   ¦   Magnific.php.bak
+    ¦   ¦   None.php
+    ¦   ¦   None.php.bak
+    ¦   ¦   PhotoSwipe.php
+    ¦   ¦   PhotoSwipe.php.bak
+    ¦   ¦   PhotoSwipe5.php
+    ¦   ¦   PhotoSwipe5.php.bak
+    ¦   ¦   PrettyPhoto.php
+    ¦   ¦   PrettyPhoto.php.bak
+    ¦   ¦   Spotlight.php
+    ¦   ¦   Spotlight.php.bak
+    ¦   ¦   Strip.php
+    ¦   ¦   Strip.php.bak
+    ¦   ¦   Swipebox.php
+    ¦   ¦   Swipebox.php.bak
+    ¦   ¦   Thickbox.php
+    ¦   ¦   Thickbox.php.bak
+    ¦   ¦   VenoBox.php
+    ¦   ¦   VenoBox.php.bak
+    ¦   ¦   
+    ¦   +---Features
+    ¦           Show_Videos_Inline.php
+    ¦           Show_Videos_Inline.php.bak
+    ¦           
+    +---Options
+    ¦   ¦   Defaults.php
+    ¦   ¦   Defaults.php.bak
+    ¦   ¦   DeviantArt.php
+    ¦   ¦   DeviantArt.php.bak
+    ¦   ¦   Flickr.php
+    ¦   ¦   Flickr.php.bak
+    ¦   ¦   Generic.php
+    ¦   ¦   Generic.php.bak
+    ¦   ¦   Instagram.php
+    ¦   ¦   Instagram.php.bak
+    ¦   ¦   Lightbox.php
+    ¦   ¦   Lightbox.php.bak
+    ¦   ¦   Options.php
+    ¦   ¦   Options.php.bak
+    ¦   ¦   Option_Tab.php
+    ¦   ¦   Option_Tab.php.bak
+    ¦   ¦   
+    ¦   +---screenshots
+    ¦           Flickr-1.png
+    ¦           Flickr-2.png
+    ¦           Flickr-3.png
+    ¦           Flickr-4.png
+    ¦           Flickr-5.png
+    ¦           Flickr-6.png
+    ¦           Flickr-7.png
+    ¦           SmugMug-1.png
+    ¦           SmugMug-2.png
+    ¦           SmugMug-3.png
+    ¦           
+    +---Platforms
+            Authenticator.php
+            Authenticator.php.bak
+            Base.php
+            Base.php.bak
+            DeviantArt.php
+            DeviantArt.php.bak
+            Flickr.php
+            Flickr.php.bak
+            Instagram.php
+            Instagram.php.bak
+            Level_One_Module.php
+            Level_One_Module.php.bak
+            Level_Two_Module.php
+            Level_Two_Module.php.bak
+            Lightroom.php
+            Lightroom.php.bak
+            Native.php
+            Native.php.bak
+            OAuth1.php
+            OAuth1.php.bak
+            OAuth2.php
+            OAuth2.php.bak
+            Pageable.php
+            Pageable.php.bak
+            
