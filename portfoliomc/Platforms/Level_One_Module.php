@@ -1,5 +1,5 @@
 <?php
-namespace Photonic_Plugin\Platforms;
+namespace PortfolioMC\Platforms;
 
 require_once PHOTONIC_PATH . '/Components/Photo.php';
 require_once PHOTONIC_PATH . '/Components/Photo_List.php';

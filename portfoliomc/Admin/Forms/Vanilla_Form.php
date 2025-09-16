@@ -1,8 +1,8 @@
 <?php
 
-namespace Photonic_Plugin\Admin\Forms;
+namespace PortfolioMC\Admin\Forms;
 
-use Photonic_Plugin\Core\Utilities;
+use PortfolioMC\Core\Utilities;
 
 /**
  * Contains all fields required on the add / edit forms for the gallery.

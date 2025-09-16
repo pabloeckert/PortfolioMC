@@ -1,9 +1,9 @@
 <?php
 
-namespace Photonic_Plugin\Platforms;
+namespace PortfolioMC\Platforms;
 
-use Photonic_Plugin\Components\Stack_Trace;
-use Photonic_Plugin\Core\Photonic;
+use PortfolioMC\Components\Stack_Trace;
+use PortfolioMC\Core\Photonic;
 use WP_Error;
 
 require_once PHOTONIC_PATH . '/Components/Printable.php';

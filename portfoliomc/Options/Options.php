@@ -1,5 +1,5 @@
 <?php
-namespace Photonic_Plugin\Options;
+namespace PortfolioMC\Options;
 
 class Options {
 	private static $instance;

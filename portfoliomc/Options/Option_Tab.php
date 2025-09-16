@@ -1,6 +1,6 @@
 <?php
 
-namespace Photonic_Plugin\Options;
+namespace PortfolioMC\Options;
 
 abstract class Option_Tab {
 	protected $options;

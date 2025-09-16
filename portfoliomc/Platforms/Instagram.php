@@ -1,12 +1,12 @@
 <?php
 
-namespace Photonic_Plugin\Platforms;
+namespace PortfolioMC\Platforms;
 
-use Photonic_Plugin\Components\Error;
-use Photonic_Plugin\Components\Pagination;
-use Photonic_Plugin\Components\Photo;
-use Photonic_Plugin\Components\Photo_List;
-use Photonic_Plugin\Components\Single_Photo;
+use PortfolioMC\Components\Error;
+use PortfolioMC\Components\Pagination;
+use PortfolioMC\Components\Photo;
+use PortfolioMC\Components\Photo_List;
+use PortfolioMC\Components\Single_Photo;
 use WP_Error;
 
 require_once 'OAuth2.php';

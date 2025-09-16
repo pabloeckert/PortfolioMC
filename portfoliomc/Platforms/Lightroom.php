@@ -1,9 +1,9 @@
 <?php
 
-namespace Photonic_Plugin\Platforms;
+namespace PortfolioMC\Platforms;
 
-use Photonic_Plugin\Components\Pagination;
-use Photonic_Plugin\Core\Photonic;
+use PortfolioMC\Components\Pagination;
+use PortfolioMC\Core\Photonic;
 
 require_once 'OAuth2.php';
 require_once 'Level_One_Module.php';

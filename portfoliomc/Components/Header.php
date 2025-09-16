@@ -1,10 +1,10 @@
 <?php
 
-namespace Photonic_Plugin\Components;
+namespace PortfolioMC\Components;
 
-use Photonic_Plugin\Core\Photonic;
-use Photonic_Plugin\Layouts\Core_Layout;
-use Photonic_Plugin\Platforms\Base;
+use PortfolioMC\Core\Photonic;
+use PortfolioMC\Layouts\Core_Layout;
+use PortfolioMC\Platforms\Base;
 
 /**
  * Class Header

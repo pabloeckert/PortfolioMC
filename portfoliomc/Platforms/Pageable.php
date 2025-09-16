@@ -1,8 +1,8 @@
 <?php
 
-namespace Photonic_Plugin\Platforms;
+namespace PortfolioMC\Platforms;
 
-use Photonic_Plugin\Components\Pagination;
+use PortfolioMC\Components\Pagination;
 
 require_once PHOTONIC_PATH . '/Components/Pagination.php';
 

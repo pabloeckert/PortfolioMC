@@ -1,6 +1,6 @@
 <?php
 
-namespace Photonic_Plugin\Lightboxes;
+namespace PortfolioMC\Lightboxes;
 
 require_once 'Lightbox.php';
 

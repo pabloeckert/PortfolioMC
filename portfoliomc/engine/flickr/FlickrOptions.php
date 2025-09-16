@@ -1,8 +1,8 @@
 <?php
 
-namespace Photonic_Plugin\Options;
+namespace PortfolioMC\Options;
 
-use Photonic_Plugin\Core\Utilities;
+use PortfolioMC\Core\Utilities;
 
 // Renamed class as requested
 class PortfolioMC_FlickrOptions extends Option_Tab {

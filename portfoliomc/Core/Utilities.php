@@ -1,6 +1,6 @@
 <?php
 
-namespace Photonic_Plugin\Core;
+namespace PortfolioMC\Core;
 
 class Utilities {
 	public static function get_formatted_post_type_array() {

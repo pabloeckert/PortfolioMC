@@ -1,31 +1,31 @@
 <?php
 
-namespace Photonic_Plugin\Layouts\Features;
+namespace PortfolioMC\Layouts\Features;
 
-use Photonic_Plugin\Core\Photonic;
-use Photonic_Plugin\Lightboxes\BaguetteBox;
-use Photonic_Plugin\Lightboxes\BigPicture;
-use Photonic_Plugin\Lightboxes\Colorbox;
-use Photonic_Plugin\Lightboxes\Fancybox;
-use Photonic_Plugin\Lightboxes\Fancybox2;
-use Photonic_Plugin\Lightboxes\Fancybox3;
-use Photonic_Plugin\Lightboxes\Fancybox4;
-use Photonic_Plugin\Lightboxes\Featherlight;
-use Photonic_Plugin\Lightboxes\GLightbox;
-use Photonic_Plugin\Lightboxes\Image_Lightbox;
-use Photonic_Plugin\Lightboxes\Lightbox;
-use Photonic_Plugin\Lightboxes\Lightcase;
-use Photonic_Plugin\Lightboxes\Lightgallery;
-use Photonic_Plugin\Lightboxes\Magnific;
-use Photonic_Plugin\Lightboxes\None;
-use Photonic_Plugin\Lightboxes\PhotoSwipe;
-use Photonic_Plugin\Lightboxes\PhotoSwipe5;
-use Photonic_Plugin\Lightboxes\PrettyPhoto;
-use Photonic_Plugin\Lightboxes\Spotlight;
-use Photonic_Plugin\Lightboxes\Strip;
-use Photonic_Plugin\Lightboxes\Swipebox;
-use Photonic_Plugin\Lightboxes\Thickbox;
-use Photonic_Plugin\Lightboxes\VenoBox;
+use PortfolioMC\Core\Photonic;
+use PortfolioMC\Lightboxes\BaguetteBox;
+use PortfolioMC\Lightboxes\BigPicture;
+use PortfolioMC\Lightboxes\Colorbox;
+use PortfolioMC\Lightboxes\Fancybox;
+use PortfolioMC\Lightboxes\Fancybox2;
+use PortfolioMC\Lightboxes\Fancybox3;
+use PortfolioMC\Lightboxes\Fancybox4;
+use PortfolioMC\Lightboxes\Featherlight;
+use PortfolioMC\Lightboxes\GLightbox;
+use PortfolioMC\Lightboxes\Image_Lightbox;
+use PortfolioMC\Lightboxes\Lightbox;
+use PortfolioMC\Lightboxes\Lightcase;
+use PortfolioMC\Lightboxes\Lightgallery;
+use PortfolioMC\Lightboxes\Magnific;
+use PortfolioMC\Lightboxes\None;
+use PortfolioMC\Lightboxes\PhotoSwipe;
+use PortfolioMC\Lightboxes\PhotoSwipe5;
+use PortfolioMC\Lightboxes\PrettyPhoto;
+use PortfolioMC\Lightboxes\Spotlight;
+use PortfolioMC\Lightboxes\Strip;
+use PortfolioMC\Lightboxes\Swipebox;
+use PortfolioMC\Lightboxes\Thickbox;
+use PortfolioMC\Lightboxes\VenoBox;
 
 trait Can_Use_Lightbox {
 	/**

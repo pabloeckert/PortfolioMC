@@ -1,6 +1,6 @@
 <?php
 
-namespace Photonic_Plugin\Platforms;
+namespace PortfolioMC\Platforms;
 
 trait Authenticator {
 	abstract public function get_access_token($token);

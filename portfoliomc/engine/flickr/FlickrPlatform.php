@@ -1,6 +1,6 @@
 <?php
 
-namespace Photonic_Plugin\Platforms;
+namespace PortfolioMC\Platforms;
 
 // ... (rest of the use statements and requires)
 

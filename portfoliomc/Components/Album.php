@@ -1,6 +1,6 @@
 <?php
 
-namespace Photonic_Plugin\Components;
+namespace PortfolioMC\Components;
 
 class Album {
 	public $id;

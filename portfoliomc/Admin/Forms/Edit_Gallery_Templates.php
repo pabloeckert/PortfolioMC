@@ -1,6 +1,6 @@
 <?php
 
-namespace Photonic_Plugin\Admin\Forms;
+namespace PortfolioMC\Admin\Forms;
 
 class Edit_Gallery_Templates {
 	private $fields;

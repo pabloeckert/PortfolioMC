@@ -1,6 +1,6 @@
 <?php
 
-namespace Photonic_Plugin\Admin\Wizard;
+namespace PortfolioMC\Admin\Wizard;
 
 /**
  * Contains the flow layout skeleton. Cannot be overridden by a theme file

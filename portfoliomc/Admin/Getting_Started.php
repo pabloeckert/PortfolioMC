@@ -1,6 +1,6 @@
 <?php
 
-namespace Photonic_Plugin\Admin;
+namespace PortfolioMC\Admin;
 
 if (!defined('ABSPATH')) {
 	echo '<h1>WordPress not loaded!</h1>';

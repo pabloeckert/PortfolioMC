@@ -1,8 +1,8 @@
 <?php
 
-namespace Photonic_Plugin\Options;
+namespace PortfolioMC\Options;
 
-use Photonic_Plugin\Core\Photonic;
+use PortfolioMC\Core\Photonic;
 
 class Defaults {
 	public static function get_options() {

@@ -1,20 +1,20 @@
 <?php
 
-namespace Photonic_Plugin\Admin;
+namespace PortfolioMC\Admin;
 
 if (!current_user_can('edit_theme_options')) {
 	wp_die(esc_html__('You are not authorized to use this capability.', 'photonic'));
 }
 
-use Photonic_Plugin\Core\Photonic;
-use Photonic_Plugin\Platforms\Authenticator;
-use Photonic_Plugin\Platforms\Base;
-use Photonic_Plugin\Platforms\Flickr;
-use Photonic_Plugin\Platforms\Google_Photos;
-use Photonic_Plugin\Platforms\Instagram;
-use Photonic_Plugin\Platforms\SmugMug;
-use Photonic_Plugin\Platforms\Zenfolio;
-use Photonic_Plugin\Platforms\DeviantArt;
+use PortfolioMC\Core\Photonic;
+use PortfolioMC\Platforms\Authenticator;
+use PortfolioMC\Platforms\Base;
+use PortfolioMC\Platforms\Flickr;
+use PortfolioMC\Platforms\Google_Photos;
+use PortfolioMC\Platforms\Instagram;
+use PortfolioMC\Platforms\SmugMug;
+use PortfolioMC\Platforms\Zenfolio;
+use PortfolioMC\Platforms\DeviantArt;
 
 require_once 'Admin_Page.php';
 

@@ -1,9 +1,9 @@
 <?php
 
-namespace Photonic_Plugin\Admin\Wizard;
+namespace PortfolioMC\Admin\Wizard;
 
-use Photonic_Plugin\Core\Photonic;
-use Photonic_Plugin\Core\Utilities;
+use PortfolioMC\Core\Photonic;
+use PortfolioMC\Core\Utilities;
 
 class Flickr extends Source {
 	private static $instance;

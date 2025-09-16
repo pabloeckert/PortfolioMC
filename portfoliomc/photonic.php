@@ -9,9 +9,9 @@ Author URI: https://mejoraok.com/
 License: GPLv2 or later
 Text Domain: portfolio-mc
 */
-namespace Photonic_Plugin;
+namespace PortfolioMC;
 
-use Photonic_Plugin\Core\Photonic;
+use PortfolioMC\Core\Photonic;
 
 class Photonic_Plugin {
 	public function __construct() {

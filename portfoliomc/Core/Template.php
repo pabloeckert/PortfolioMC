@@ -1,6 +1,6 @@
 <?php
 
-namespace Photonic_Plugin\Core;
+namespace PortfolioMC\Core;
 
 /**
  * Class Template

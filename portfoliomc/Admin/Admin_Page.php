@@ -1,6 +1,6 @@
 <?php
 
-namespace Photonic_Plugin\Admin;
+namespace PortfolioMC\Admin;
 
 abstract class Admin_Page {
 	public function render($header) {

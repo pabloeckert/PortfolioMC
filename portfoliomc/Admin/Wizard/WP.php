@@ -1,8 +1,8 @@
 <?php
 
-namespace Photonic_Plugin\Admin\Wizard;
+namespace PortfolioMC\Admin\Wizard;
 
-use Photonic_Plugin\Core\Utilities;
+use PortfolioMC\Core\Utilities;
 
 class WP extends Source {
 	private static $instance;

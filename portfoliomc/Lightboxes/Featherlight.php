@@ -1,8 +1,8 @@
 <?php
 
-namespace Photonic_Plugin\Lightboxes;
+namespace PortfolioMC\Lightboxes;
 
-use Photonic_Plugin\Platforms\Base;
+use PortfolioMC\Platforms\Base;
 
 require_once 'Lightbox.php';
 

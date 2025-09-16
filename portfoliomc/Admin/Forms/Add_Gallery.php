@@ -1,8 +1,8 @@
 <?php
 
-namespace Photonic_Plugin\Admin\Forms;
+namespace PortfolioMC\Admin\Forms;
 
-use Photonic_Plugin\Core\Photonic;
+use PortfolioMC\Core\Photonic;
 
 if (!current_user_can('edit_posts')) {
 	wp_die(esc_html__('You are not authorized to use this capability.', 'photonic'));

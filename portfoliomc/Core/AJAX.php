@@ -1,8 +1,8 @@
 <?php
-namespace Photonic_Plugin\Core;
+namespace PortfolioMC\Core;
 
-use Photonic_Plugin\Admin\Authentication;
-use Photonic_Plugin\Admin\Helper;
+use PortfolioMC\Admin\Authentication;
+use PortfolioMC\Admin\Helper;
 
 class AJAX {
 	private $core;

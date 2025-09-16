@@ -1,9 +1,9 @@
 <?php
 
-namespace Photonic_Plugin\Lightboxes;
+namespace PortfolioMC\Lightboxes;
 
-use Photonic_Plugin\Lightboxes\Features\Show_Videos_Inline;
-use Photonic_Plugin\Platforms\Base;
+use PortfolioMC\Lightboxes\Features\Show_Videos_Inline;
+use PortfolioMC\Platforms\Base;
 
 require_once 'Lightbox.php';
 require_once 'Features/Show_Videos_Inline.php';

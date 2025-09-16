@@ -1,9 +1,9 @@
 <?php
 
-namespace Photonic_Plugin\Lightboxes\Features;
+namespace PortfolioMC\Lightboxes\Features;
 
-use Photonic_Plugin\Components\Photo;
-use Photonic_Plugin\Platforms\Base;
+use PortfolioMC\Components\Photo;
+use PortfolioMC\Platforms\Base;
 
 trait Show_Videos_Inline {
 	public function get_video_id(Photo $photo, Base $module): string {

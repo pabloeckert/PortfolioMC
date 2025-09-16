@@ -1,8 +1,8 @@
 <?php
 
-namespace Photonic_Plugin\Options;
+namespace PortfolioMC\Options;
 
-use Photonic_Plugin\Core\Utilities;
+use PortfolioMC\Core\Utilities;
 
 class DeviantArt extends Option_Tab {
 	protected function __construct() {

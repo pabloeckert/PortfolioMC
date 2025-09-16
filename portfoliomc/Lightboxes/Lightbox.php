@@ -1,10 +1,10 @@
 <?php
 
-namespace Photonic_Plugin\Lightboxes;
+namespace PortfolioMC\Lightboxes;
 
-use Photonic_Plugin\Components\Photo;
-use Photonic_Plugin\Core\Photonic;
-use Photonic_Plugin\Platforms\Base;
+use PortfolioMC\Components\Photo;
+use PortfolioMC\Core\Photonic;
+use PortfolioMC\Platforms\Base;
 
 abstract class Lightbox {
 	/** @var array */

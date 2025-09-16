@@ -1,10 +1,10 @@
 <?php
 
-namespace Photonic_Plugin\Admin;
+namespace PortfolioMC\Admin;
 
-use Photonic_Plugin\Admin\Wizard\Wizard;
-use Photonic_Plugin\Core\Photonic;
-use Photonic_Plugin\Platforms\SmugMug;
+use PortfolioMC\Admin\Wizard\Wizard;
+use PortfolioMC\Core\Photonic;
+use PortfolioMC\Platforms\SmugMug;
 
 class Admin {
 	public function __construct() {

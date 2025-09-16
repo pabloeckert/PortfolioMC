@@ -1,8 +1,8 @@
 <?php
 
-namespace Photonic_Plugin\Core;
+namespace PortfolioMC\Core;
 
-use Photonic_Plugin\Platforms\Instagram;
+use PortfolioMC\Platforms\Instagram;
 
 class Cron {
 	public function __construct() {

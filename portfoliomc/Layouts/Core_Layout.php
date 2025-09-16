@@ -1,11 +1,11 @@
 <?php
 
-namespace Photonic_Plugin\Layouts;
+namespace PortfolioMC\Layouts;
 
-use Photonic_Plugin\Components\Header;
-use Photonic_Plugin\Components\Single_Photo;
-use Photonic_Plugin\Core\Photonic;
-use Photonic_Plugin\Platforms\Base;
+use PortfolioMC\Components\Header;
+use PortfolioMC\Components\Single_Photo;
+use PortfolioMC\Core\Photonic;
+use PortfolioMC\Platforms\Base;
 
 /**
  * Layout Manager to generate the grid layouts and the "Justified Grid" layout, all of which use the same markup. The Justified Grid layout is

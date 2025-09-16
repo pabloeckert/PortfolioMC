@@ -1,9 +1,9 @@
 <?php
 
-namespace Photonic_Plugin\Admin;
+namespace PortfolioMC\Admin;
 
-use Photonic_Plugin\Core\Photonic;
-use Photonic_Plugin\Options\Defaults;
+use PortfolioMC\Core\Photonic;
+use PortfolioMC\Options\Defaults;
 
 class Admin_Menu {
 	private $file;

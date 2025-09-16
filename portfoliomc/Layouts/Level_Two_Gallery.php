@@ -1,8 +1,8 @@
 <?php
-namespace Photonic_Plugin\Layouts;
+namespace PortfolioMC\Layouts;
 
-use Photonic_Plugin\Components\Album_List;
-use Photonic_Plugin\Platforms\Base;
+use PortfolioMC\Components\Album_List;
+use PortfolioMC\Platforms\Base;
 
 interface Level_Two_Gallery {
 	/**

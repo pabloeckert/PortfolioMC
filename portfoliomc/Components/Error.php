@@ -1,9 +1,9 @@
 <?php
 
-namespace Photonic_Plugin\Components;
+namespace PortfolioMC\Components;
 
-use Photonic_Plugin\Layouts\Core_Layout;
-use Photonic_Plugin\Platforms\Base;
+use PortfolioMC\Layouts\Core_Layout;
+use PortfolioMC\Platforms\Base;
 
 class Error implements Printable {
 	private $message;

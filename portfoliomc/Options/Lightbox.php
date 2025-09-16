@@ -1,6 +1,6 @@
 <?php
 
-namespace Photonic_Plugin\Options;
+namespace PortfolioMC\Options;
 
 class Lightbox extends Option_Tab {
 	protected function __construct() {

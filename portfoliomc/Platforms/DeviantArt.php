@@ -1,13 +1,13 @@
 <?php
-namespace Photonic_Plugin\Platforms;
+namespace PortfolioMC\Platforms;
 
-use Photonic_Plugin\Components\Album_List;
-use Photonic_Plugin\Components\Error;
-use Photonic_Plugin\Components\Pagination;
-use Photonic_Plugin\Components\Photo_List;
-use Photonic_Plugin\Core\Photonic;
-use Photonic_Plugin\Components\Album;
-use Photonic_Plugin\Components\Photo;
+use PortfolioMC\Components\Album_List;
+use PortfolioMC\Components\Error;
+use PortfolioMC\Components\Pagination;
+use PortfolioMC\Components\Photo_List;
+use PortfolioMC\Core\Photonic;
+use PortfolioMC\Components\Album;
+use PortfolioMC\Components\Photo;
 
 require_once 'OAuth2.php';
 require_once 'Level_One_Module.php';

@@ -1,10 +1,10 @@
 <?php
 
-namespace Photonic_Plugin\Core;
+namespace PortfolioMC\Core;
 
-use Photonic_Plugin\Admin\Admin_Menu;
-use Photonic_Plugin\Options\Defaults;
-use Photonic_Plugin\Options\Options;
+use PortfolioMC\Admin\Admin_Menu;
+use PortfolioMC\Options\Defaults;
+use PortfolioMC\Options\Options;
 use WP_Error;
 
 class Photonic {

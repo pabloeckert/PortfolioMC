@@ -1,10 +1,10 @@
 <?php
 
-namespace Photonic_Plugin\Platforms;
+namespace PortfolioMC\Platforms;
 
-use Photonic_Plugin\Components\Pagination;
-use Photonic_Plugin\Components\Photo;
-use Photonic_Plugin\Components\Photo_List;
+use PortfolioMC\Components\Pagination;
+use PortfolioMC\Components\Photo;
+use PortfolioMC\Components\Photo_List;
 
 require_once 'Base.php';
 require_once 'Level_One_Module.php';

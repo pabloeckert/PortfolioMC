@@ -1,6 +1,6 @@
 <?php
 
-namespace Photonic_Plugin\Admin\Wizard;
+namespace PortfolioMC\Admin\Wizard;
 
 abstract class Source {
 	protected $default_under;

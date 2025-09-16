@@ -1,5 +1,5 @@
 <?php
-namespace Photonic_Plugin\Core;
+namespace PortfolioMC\Core;
 
 class Front_End {
 	private static $instance = null;

@@ -1,14 +1,14 @@
 <?php
 
-namespace Photonic_Plugin\Admin;
+namespace PortfolioMC\Admin;
 
 if (!current_user_can('edit_posts')) {
 	wp_die(esc_html__('You are not authorized to use this capability.', 'photonic'));
 }
 
-use Photonic_Plugin\Core\Photonic;
-use Photonic_Plugin\Platforms\Google_Photos;
-use Photonic_Plugin\Platforms\SmugMug;
+use PortfolioMC\Core\Photonic;
+use PortfolioMC\Platforms\Google_Photos;
+use PortfolioMC\Platforms\SmugMug;
 use WP_Error;
 
 require_once 'Admin_Page.php';

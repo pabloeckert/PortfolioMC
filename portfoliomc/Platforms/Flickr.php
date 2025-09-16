@@ -1,17 +1,17 @@
 <?php
 
-namespace Photonic_Plugin\Platforms;
+namespace PortfolioMC\Platforms;
 
-use Photonic_Plugin\Components\Album_List;
-use Photonic_Plugin\Components\Collection;
-use Photonic_Plugin\Components\Error;
-use Photonic_Plugin\Components\Header;
-use Photonic_Plugin\Components\Pagination;
-use Photonic_Plugin\Components\Photo_List;
-use Photonic_Plugin\Components\Single_Photo;
-use Photonic_Plugin\Core\Photonic;
-use Photonic_Plugin\Components\Album;
-use Photonic_Plugin\Components\Photo;
+use PortfolioMC\Components\Album_List;
+use PortfolioMC\Components\Collection;
+use PortfolioMC\Components\Error;
+use PortfolioMC\Components\Header;
+use PortfolioMC\Components\Pagination;
+use PortfolioMC\Components\Photo_List;
+use PortfolioMC\Components\Single_Photo;
+use PortfolioMC\Core\Photonic;
+use PortfolioMC\Components\Album;
+use PortfolioMC\Components\Photo;
 use WP_Error;
 use WpOrg\Requests\Hooks;
 use WpOrg\Requests\Requests;

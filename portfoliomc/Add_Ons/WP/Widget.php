@@ -1,8 +1,8 @@
 <?php
 
-namespace Photonic_Plugin\Add_Ons\WP;
+namespace PortfolioMC\Add_Ons\WP;
 
-use Photonic_Plugin\Core\Photonic;
+use PortfolioMC\Core\Photonic;
 use WP_Widget;
 
 class Widget extends WP_Widget {

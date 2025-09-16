@@ -1,8 +1,8 @@
 <?php
 
-namespace Photonic_Plugin\Platforms;
+namespace PortfolioMC\Platforms;
 
-use Photonic_Plugin\Core\Photonic;
+use PortfolioMC\Core\Photonic;
 
 require_once 'Base.php';
 require_once 'Authenticator.php';

@@ -1,17 +1,17 @@
 <?php
 
-namespace Photonic_Plugin\Layouts;
+namespace PortfolioMC\Layouts;
 
-use Photonic_Plugin\Components\Album_List;
-use Photonic_Plugin\Components\Grid_Anchor;
-use Photonic_Plugin\Components\Grid_Figure;
-use Photonic_Plugin\Components\Grid_Image;
-use Photonic_Plugin\Components\Pagination;
-use Photonic_Plugin\Components\Photo_List;
-use Photonic_Plugin\Layouts\Features\Can_Use_Lightbox;
-use Photonic_Plugin\Platforms\Base;
-use Photonic_Plugin\Components\Album;
-use Photonic_Plugin\Components\Photo;
+use PortfolioMC\Components\Album_List;
+use PortfolioMC\Components\Grid_Anchor;
+use PortfolioMC\Components\Grid_Figure;
+use PortfolioMC\Components\Grid_Image;
+use PortfolioMC\Components\Pagination;
+use PortfolioMC\Components\Photo_List;
+use PortfolioMC\Layouts\Features\Can_Use_Lightbox;
+use PortfolioMC\Platforms\Base;
+use PortfolioMC\Components\Album;
+use PortfolioMC\Components\Photo;
 
 require_once 'Level_One_Gallery.php';
 require_once 'Level_Two_Gallery.php';

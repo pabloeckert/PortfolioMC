@@ -1,18 +1,18 @@
 <?php
 
-namespace Photonic_Plugin\Core;
+namespace PortfolioMC\Core;
 
-use Photonic_Plugin\Layouts\Core_Layout;
-use Photonic_Plugin\Layouts\Grid;
-use Photonic_Plugin\Layouts\Slideshow;
-use Photonic_Plugin\Platforms\Base;
-use Photonic_Plugin\Platforms\Flickr;
-use Photonic_Plugin\Platforms\Google_Photos;
-use Photonic_Plugin\Platforms\Instagram;
-use Photonic_Plugin\Platforms\Native;
-use Photonic_Plugin\Platforms\SmugMug;
-use Photonic_Plugin\Platforms\Zenfolio;
-use Photonic_Plugin\Platforms\DeviantArt;
+use PortfolioMC\Layouts\Core_Layout;
+use PortfolioMC\Layouts\Grid;
+use PortfolioMC\Layouts\Slideshow;
+use PortfolioMC\Platforms\Base;
+use PortfolioMC\Platforms\Flickr;
+use PortfolioMC\Platforms\Google_Photos;
+use PortfolioMC\Platforms\Instagram;
+use PortfolioMC\Platforms\Native;
+use PortfolioMC\Platforms\SmugMug;
+use PortfolioMC\Platforms\Zenfolio;
+use PortfolioMC\Platforms\DeviantArt;
 
 class Gallery {
 	private $attr;
